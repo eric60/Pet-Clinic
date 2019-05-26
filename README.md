@@ -1,2 +1,2 @@
 # Pet-Clinic
-Pet Clinic Spring Web App
+Pet Clinic Spring Boot Web App
